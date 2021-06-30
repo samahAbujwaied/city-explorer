@@ -20,7 +20,7 @@ HTML,CSS,JS,BOOTSTRAP,AXIOS,REACT.
 ## Credit and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 Hassan , Qassem , saja , aseel
-path for data flow diagram is on ../city-explorer/public/cycle.png
+path for data flow diagram is on ../![](../city-explorer/public/cycle.png)
 
 
 Name of feature:lab6
